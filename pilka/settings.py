@@ -25,7 +25,7 @@ SECRET_KEY = 'g0vv*hl&*b+rp+db$!9dz0vk0e9xr!=1&zjqm7^t^um$aar-d+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['http://djangopilka-env.eba-r9f8tzd4.us-east-1.elasticbeanstalk.com/']
+ALLOWED_HOSTS = ['djangopilka-env.eba-r9f8tzd4.us-east-1.elasticbeanstalk.com']
 
 
 # Application definition
